@@ -6,7 +6,9 @@ A full-stack application that ingests SAP Order-to-Cash (O2C) data into a Neo4j 
 
 ## Live Demo
 
-> Add your deployed link here
+> **Backend API:** https://graph-based-data-modeling-and-query.onrender.com
+> **API Docs (Swagger):** https://graph-based-data-modeling-and-query.onrender.com/docs
+> **Frontend:** *(add your Vercel URL here once deployed)*
 
 ---
 
