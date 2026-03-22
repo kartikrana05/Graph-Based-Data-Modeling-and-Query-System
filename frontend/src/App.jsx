@@ -3,7 +3,7 @@ import GraphView from "./GraphView";
 import ChatPanel from "./ChatPanel";
 import StatsBar from "./StatsBar";
 
-const API = import.meta.env.VITE_API_URL || "http://localhost:8000";
+const API = import.meta.env.VITE_API_URL || "https://graph-based-data-modeling-and-query.onrender.com";
 
 export default function App() {
   const [graphData, setGraphData] = useState({ nodes: [], edges: [] });
